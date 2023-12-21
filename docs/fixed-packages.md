@@ -2,7 +2,7 @@
 
 Fixed packages allow you to specify a group or groups of packages that should be versioned and published together.
 
-> Unlike `linked packages`, all packages in the group of fixed packages will be version-bumped and published together even when there are no changes done to some of the the member packages.
+> Unlike `linked packages`, all packages in the group of fixed packages will be version-bumped and published together even when there are no changes done to some of the member packages.
 
 ## Examples
 
